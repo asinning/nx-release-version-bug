@@ -18,5 +18,8 @@
         }
       }
     }
-  ]
+  ],
+  "release": {
+    "projectsRelationship": "independent"
+  }
 }
