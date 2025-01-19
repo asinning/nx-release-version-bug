@@ -1,13 +1,13 @@
 {
   "name": "dep-b",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dep-c": "^0.0.1"
+    "dep-c": "^0.0.2"
   },
   "keywords": [],
   "author": "",
